@@ -1,0 +1,56 @@
+
+body{
+
+
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.top-part{
+
+display: flex;
+
+
+}
+.half-width{
+
+width: 50%;
+
+
+}
+.half-width img{
+
+
+    width: 70%;
+
+}
+
+h1{
+
+
+    font-size: 50px;
+    font-weight: 700;
+
+
+}
+#y-color{
+
+color: #FBA24F;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+
+background-image: linear-gradient(#FBA24F,#FF1E1E);
+padding: 10px 25px;
+border-radius: 20px;
+}
+
+.top-part{
+
+
+padding-left: 120px;
+
+
+}
