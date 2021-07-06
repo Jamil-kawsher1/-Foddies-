@@ -54,3 +54,22 @@ padding-left: 120px;
 
 
 }
+.middle-part{
+    margin-top: 20px;
+
+background-image: url(img/2nd.png);
+background-repeat: no-repeat;
+background-size: 100%;
+display: flex;
+
+}
+
+.middle-part img{
+    margin-top: 10px;
+    padding-left: 200px;
+width: 28%;
+
+
+
+}
+
