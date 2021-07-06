@@ -6,7 +6,7 @@ body{
 }
 
 
-.top-part{
+.flex-style{
 
 display: flex;
 
@@ -85,8 +85,38 @@ text-align: center;
 
 
 }
-.Recipes p{
+
+.box-style{
+    width: 0%;
+    box-shadow:10px 10px 20px  gray; margin-left: 5%;
+margin-right: 2%;
+padding-left: 20px;
+border-radius: 10px;
+
+}
+.box-style img{
+/* border: solid white 10px; */
+width: 80%;
+margin: 10px;
+margin-top: 30px;
+
+border-radius: 20px;
+
+}
+.one-third{
+
+width: 30%;
+
+}
+
+.review-section{
+
+margin-top: 20px;
+
+}
 
 
+.review-section h1{
 
+font-size: x-large;
 }
