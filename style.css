@@ -95,7 +95,7 @@ border-radius: 10px;
 
 }
 .box-style img{
-/* border: solid white 10px; */
+
 width: 80%;
 margin: 10px;
 margin-top: 30px;
@@ -119,4 +119,73 @@ margin-top: 20px;
 .review-section h1{
 
 font-size: x-large;
+}
+.social-stat a{
+
+background-image: none;
+
+
+}
+.social-stat img{
+
+    width: 15%;
+}
+.social-stat{
+
+
+    margin-top: 30px;
+}
+
+.box-style-social{
+    padding-top: 20px;
+
+border: solid 2px gray;
+box-shadow:10px 1opx gray ; margin-left: 5%;
+margin-right: 2%;
+padding-left: 20px;
+border-radius: 10px;
+
+
+}
+
+#fb
+{
+padding-bottom: 10px;
+padding-left: 400px;
+
+
+}
+#igram{
+
+padding-left: 250px;
+
+
+}
+.footer{
+    
+    margin-left: 0%;
+    background-color: black;
+width: 100%;
+height: 120px;
+text-align: center;
+
+
+}
+.footer h1{
+    padding-top: 10px;
+color: #5B5B5B;
+font-size: 25px;
+
+
+}
+#food{
+
+
+color: #FBA24F;
+
+}
+#eat{
+
+
+    color: white;
 }
